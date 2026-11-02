@@ -18,4 +18,5 @@ Tema WordPress personalizado para gerenciar tutores, turmas e agendas em context
 - Componentes de UI aprimorados: cards, tabelas, badges, modais, botões
 - Acessibilidade inclui suporte a prefers-reduced-motion
 
+Relacionado: [[Memória Claude/Áreas/Gestão da Tutoria EaD]]
 Ver também: [[Memória Claude/Índice]]

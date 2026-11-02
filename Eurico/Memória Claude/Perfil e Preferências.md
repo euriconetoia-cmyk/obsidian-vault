@@ -1,7 +1,7 @@
 ---
 tags: [memoria-claude, perfil]
 fonte: memória do Claude
-atualizado: 2026-10-10
+atualizado: 2026-11-01
 ---
 # Perfil e Preferências
 
@@ -16,6 +16,9 @@ atualizado: 2026-10-10
 - Identificação profissional usada no SENAI: Eurico Cirilo de Carvalho Neto — Instrutor Técnico de Informática – Unidade UNIDIGITAL / SENAI FIEG
 
 ## Preferências
+- Quer as respostas em português
 - Na correção de atividades de alunos (pacotes de correção SENAI/Moodle), quer uma régua de nota mais generosa ("para as próximas")
+- Antes de entregar qualquer coisa (código, zip), quer ver algo visual de como vai ficar (mockup/telas) para validar
+- Ao entregar pacotes de plugin/tema WordPress, entregar em zips separados (plugin num zip, tema noutro)
 
 Ver também: [[Memória Claude/Índice]]

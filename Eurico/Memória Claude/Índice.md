@@ -1,11 +1,11 @@
 ---
 tags: [memoria-claude, indice]
 fonte: memória do Claude
-sincronizado: 2026-10-10
+sincronizado: 2026-11-02
 ---
 # Memória do Claude — Índice
 
-Cópia da memória do Claude sincronizada em 10/10/2026. A memória do Claude continua sendo a fonte original; estas notas são uma cópia para consulta e organização no Obsidian.
+Cópia da memória do Claude sincronizada em 02/11/2026 (anterior: 10/10/2026). A memória do Claude continua sendo a fonte original; estas notas são uma cópia para consulta e organização no Obsidian.
 
 ## Perfil
 - [[Memória Claude/Perfil e Preferências|Perfil e Preferências]]
@@ -24,6 +24,12 @@ Cópia da memória do Claude sincronizada em 10/10/2026. A memória do Claude co
 - [[Memória Claude/Áreas/Google Sheets e Apps Script|Google Sheets e Apps Script]]
 - [[Memória Claude/Áreas/Site Vaga Estágio Previdenciário|Site Vaga Estágio Previdenciário]]
 - [[Memória Claude/Áreas/Terapia da Alma - Vaso de Honra|Terapia da Alma — Vaso de Honra]]
+- [[Memória Claude/Áreas/Unidigit@l Assist|Unidigit@l Assist (extensão do Chrome)]]
+- [[Memória Claude/Áreas/Gestão da Tutoria EaD|Gestão da Tutoria EaD]]
+- [[Memória Claude/Áreas/Convite Bodas de Prata|Convite Bodas de Prata]]
+- [[Memória Claude/Áreas/Dízimo NFC e PIX|Dízimo NFC e PIX]]
+- [[Memória Claude/Áreas/Slides Serviços de Redes|Slides — Serviços de Redes em Servidores]]
+- [[Memória Claude/Áreas/Obsidian Vault|Obsidian Vault]]
 
 ## Temas
 - [[Memória Claude/Temas/Docência|Docência]]
